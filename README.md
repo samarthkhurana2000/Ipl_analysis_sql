@@ -9,5 +9,5 @@ In this project I will be working with IPL data set. IPL is a well famous club c
 * Matches table has 816 rows, where it contains match to match data & results of matches played between IPL 2008 to 2020.
 * You can checkout the CSV files (ipl ball and ipl_matches).
 * In this project, i was given with 15 SQL Questions. You can check out my approach & queries below.
-* There is one sql files 
+* There is one sql file 
   - That is IPL_analysis_sqll where i have wrote the queries to the questions.
